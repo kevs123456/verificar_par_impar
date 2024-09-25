@@ -28,4 +28,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: kevs2805/verificar_par_impar:1.0
+        tags: kevs2805/verificar_par_impar:1.1
