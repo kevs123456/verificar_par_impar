@@ -1,3 +1,5 @@
+#prueba para github actions
+
 def verificar_par_impar(numero):
     if numero % 2 == 0:
         return f"{numero} es un número par."
