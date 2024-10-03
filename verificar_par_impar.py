@@ -12,3 +12,4 @@ if __name__ == "__main__":
             break  # Salir del bucle si la entrada es válida
         except ValueError:
             print("Error: Debes introducir un número válido. Inténtalo de nuevo.")
+            #v2
